@@ -9,15 +9,15 @@ It's built with React, Redux, React Router, & Redux Thunk.
 Clone the repository, change directories, and use NPM to install the dependencies.
 
 ```bash
-$ git clone https://github.com/james-priest/reactnd-project-would-you-rather.git
-$ cd reactnd-project-would-you-rather
+$ git clone https://github.com/AhmedShola324/would-you-rather.git
+$ cd would-you-rather
 $ npm install
 ```
 
 ## Usage
 
 The project can be run with
-
+- `npm install`
 - `npm start`
 
 The project can be viewed in the browser at
