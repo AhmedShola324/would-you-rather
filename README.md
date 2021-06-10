@@ -2,14 +2,7 @@
 
 Would You Rather is a fully responsive and mobile-ready polling game that presents the user with a series of questions.
 
-![screenshot #1](docs/assets/images/wyr77-small.jpg)
-
 It's built with React, Redux, React Router, & Redux Thunk.
-
-This app is the second of three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
-
-- **Live Demo:** [https://reactnd-would-you-rather.netlify.com](https://reactnd-would-you-rather.netlify.com/)
-- **Code Notes:** [Step-by-step walk-though of how this project was built](https://james-priest.github.io/reactnd-project-would-you-rather/)
 
 ## Installation
 
@@ -31,6 +24,4 @@ The project can be viewed in the browser at
 
 - [http://localhost:3000](http://localhost:3000)
 
-## Screenshots
-
-![screenshot #2](docs/assets/images/wyr76-small.jpg)
+## Special thanks to James Priest for your notes and guide this project couldn't have been completed with you
