@@ -1,4 +1,3 @@
-[![wyr77](assets/images/wyr77-small.jpg)](assets/images/wyr77.jpg)<br>
 <span class="center bold">Would You Rather Game</span>
 
 This site contains code notes for how I built project 2 of my [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019).
